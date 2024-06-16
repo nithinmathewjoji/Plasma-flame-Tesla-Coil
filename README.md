@@ -34,7 +34,8 @@ This project demonstrates the construction and operation of a plasma Tesla coil,
 
 ## Circuit Diagram
 
-![Circuit Diagram](path_to_your_diagram)  <!-- Include a schematic diagram of your Tesla coil circuit here -->
+![WhatsApp Image 2024-06-16 at 08 28 04_7fd8c425](https://github.com/nithinmathewjoji/Plasma-flame-Tesla-Coil/assets/76144003/85ac80ed-f855-4566-9d4f-09aed3d77153)
+)  <!-- Include a schematic diagram of your Tesla coil circuit here -->
 
 ## How It Works
 
