@@ -1,6 +1,7 @@
 # Plasma Tesla Coil Project
 
-![Tesla Coil](path_to_your_image)  <!-- You can include an image of your Tesla coil here -->
+![Tesla Coil](![OIP](https://github.com/nithinmathewjoji/Plasma-flame-Tesla-Coil/assets/76144003/8bd7d8ca-55d4-4952-ab7a-89d96c130402)
+  
 
 ## Overview
 
