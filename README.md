@@ -26,16 +26,16 @@ This project demonstrates the construction and operation of a plasma Tesla coil,
 - **Power Supply**: High-voltage transformer (e.g., neon sign transformer)
 - **Primary Coil**: Coil of wire
 - **Capacitor**: For energy storage
-- **Spark Gap**: Switching mechanism
+- **Mosfet**: Switching mechanism
 
 ### Secondary Circuit
 - **Secondary Coil**: Coil with many turns of wire
-- **Top Load**: Metal sphere or toroid
+- **Top Load**: stainless steel nail
 
 ## Circuit Diagram
 
 ![WhatsApp Image 2024-06-16 at 08 28 04_7fd8c425](https://github.com/nithinmathewjoji/Plasma-flame-Tesla-Coil/assets/76144003/85ac80ed-f855-4566-9d4f-09aed3d77153)
-)  <!-- Include a schematic diagram of your Tesla coil circuit here -->
+ 
 
 ## How It Works
 
